@@ -1,0 +1,18 @@
+@import "variables";
+//Overridden Variables
+
+/* fade image in after load */
+.lazyload {
+    opacity: 0;
+}
+// .lazyloaded {
+//     opacity: 1;
+//     transition: opacity 500ms;
+// }
+
+.lazyloading {
+    opacity: 1;
+    transition: opacity 300ms;
+    background: #000000 url(/../images/loader.gif) no-repeat center;
+}
+
