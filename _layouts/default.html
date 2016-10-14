@@ -4,7 +4,13 @@
 		{{ content }}
 		{% include _footer.html %}
 	  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-		<script src="/js/jquery.cycle.all.js"></script>
+		<script src="/js/jquery.fitvids.js"></script>
 		<script src="/js/lazysizes.min.js"></script>
+    <script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".video-index").fitVids();
+  });
+</script>
 	</body>
 </html>

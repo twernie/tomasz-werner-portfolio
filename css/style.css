@@ -744,6 +744,18 @@ textarea {
   transition: opacity 300ms;
   background: #000000 url(/../images/loader.gif) no-repeat center; }
 
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0; }
+
+video {
+  width: 100%    !important;
+  height: auto   !important; }
+
+.video-index {
+  width: 100%; }
+
 .white {
   color: #ffffff; }
 
