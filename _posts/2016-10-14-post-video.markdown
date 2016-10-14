@@ -1,15 +1,6 @@
 ---
-title: Video Test
-date: 2016-08-26 19:54:39 Z
-categories:
-- video
-layout: post
-<<<<<<< HEAD:_posts/2016-08-27-post-video.markdown
-title:  "Video Test"
-date:   2016-08-26 15:54:39 -0400
-categories: video
-roles: Director / DP / Editor
-credits: Escobedo Soliz – MoMA
+title: 2016 08 26 Post Video
+date: 2016-10-14 20:25:34.302000000 Z
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FU3UYJD69Pk" frameborder="0" allowfullscreen></iframe>
