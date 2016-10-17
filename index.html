@@ -5,23 +5,81 @@ description: Multi-disciplinary designer & art director based in Brooklyn, NY.
 social-image: images/jukely-app-home-2-chrismuccioli.jpg
 ---
 
-<div class="clearfix container">
+<div class="clearfix content">
    <div class="video-index">
     <ul>
       {% for post in site.categories.video %}
         {% if post.url %}
             <li>
-              {{ post.excerpt }}
-            <h2 class="red">{{ post.title }}</h2>
-            <div class="">
-              <h4>{{ post.roles }}</h4>
+              <a href="#" class="play-video">
+                {{ post.excerpt }}
+              </a>
+            <div class="title">
+            <h3 class="caps">{{ post.title }}</h3>
+            <div class="credits">
+              <h5>{{ post.credits }}</h5>
             </div>
-            <div>
-              <h2>{{ post.credits }}</h2></li>
             </div>
+            <div class="roles">
+              <h5>{{ post.roles }}</h5>
+            </div>
+            </li>
         {% endif %}
       {% endfor %}
     </ul>
   </div>
 </div>
 
+<div class="clearfix container px2">
+  <div class="row">
+    <div class="col lg-col-3 md-col-12 sm-col-12 px2">
+      <h4 class="bold caps pb2">About</h4>
+      <ul>
+        <li>b. 1981, Warsaw></li>
+        <li>Studied Video Art at SAIC, Chicago</li>
+        <li>Studied Film at UT, Austin</li>
+        <li> Lives and works in New York City</li>
+      </ul>
+    </div>
+    <div class="col lg-col-2 md-col-12 sm-col-12 px2">
+      <h4 class="bold caps pb2">Collaborations</h4>
+      <ul>
+        <li><a href="#">Creative Time</a></li>
+        <li><a href="#">Egal Dance</a></li>
+        <li><a href="#">Kickstarter</a></li>
+        <li><a href="#">MoMA</a></li>
+        <li><a href="#">The New Museum</a></li>
+        <li><a href="#">The New Yorker</a></li>
+        <li><a href="#">National Geographic</a></li>
+        <li><a href="#">Singles Club</a></li>
+        <li><a href="#">UNHCR</a></li>
+      </ul>
+    </div>
+    <div class="col lg-col-4 sm-col-12 px2">
+      <h4 class="bold caps pb2">Projects</h4>
+      <h4 class="bold"><a href="#">The Video Consortium</a></h4>
+      <p>A creative community of the world’s leading video journalists and nonfiction filmmakers promoting socially conscious, thought-provoking storytelling for a new era of media.</p>
+      <h4 class="bold"><a href="#">Mono No Aware</a></h4>
+      <p>Brooklyn-based, non-profit cinema arts organization promoting cinematic art, film screenings, and performance year round.</p>
+      <h4 class="bold"><a href="#">Yesvhs</a></h4>
+      <p>A future newsletter of mixtape finds and video delight. Click for inaugural issue download.</p>
+    </div>
+    <div class="col lg-col-2 sm-col-12 px2">
+      <h4 class="bold caps pb2">Contact</h4>
+      <ul>
+        <li>tomaszpwerner@gmail.com</li>
+        <li>@tomaszwerner</li>
+      </ul>
+      <h5 class="pb1 pt3">© 2016 Tomasz Werner</h5>
+      <h5>Site design and build by Chris Muccioli</h5>
+    </div>
+  </div>
+</div>
+<div class="footer-nav">
+  <ul>
+        <li><a href="#">documentary</a></li>
+        <li><a href="#">cinematorgraphy</a></li>
+        <li><a href="#">music video</a></li>
+        <li><a href="#">commercial</a></li>
+      </ul>
+</div>
