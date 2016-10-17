@@ -1,8 +1,9 @@
 ---
+title: Video Test
+date: 2016-08-26 19:54:39 Z
+categories:
+- video
 layout: post
-title:  "Video Test"
-date:   2016-08-26 15:54:39 -0400
-categories: video
 roles: Director / DP / Editor
 credits: Escobedo Soliz – MoMA
 ---

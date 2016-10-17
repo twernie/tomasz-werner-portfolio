@@ -1,13 +1,13 @@
 ---
+title: Weaving the Courtyard
+date: 2016-08-26 19:54:39 Z
+categories:
+- video
 layout: post
-title:  Twins Days
-date:   2016-08-26 15:54:39 -0400
-categories: video
-roles: Director of Photography
-credits:
-video-source: https://www.youtube.com/embed/FU3UYJD69Pk
-thumbnail-source: /images/twins-days.jpg
-
+roles: Director / DP / Editor
+credits: Escobedo Soliz - MoMA
+video-source: https://www.youtube.com/embed/w1Uz2qTzeeg
+thumbnail-source: "/images/yap.jpg"
 ---
 
 <div class="video-overlay" style="background: url('{{ page.thumbnail-source }}') no-repeat;">
