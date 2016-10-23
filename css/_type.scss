@@ -1,7 +1,9 @@
 body {
   font-family: $font-family;
   line-height: $line-height;
+  font-weight: $font-weight;
   font-size: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 h1,

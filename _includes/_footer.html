@@ -33,30 +33,21 @@
 <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
     <script src="/js/jquery.fitvids.js"></script>
     <script src="/js/lazysizes.min.js"></script>
+    <script src="/js/lity.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
+    <link href="/vendor/lity.css" rel="stylesheet">
     <script>
   $(document).ready(function(){
     // Target your .container, .wrapper, .post, etc.
     $(".video-index").fitVids();
   });
 </script>
+
 <script type="text/javascript">
 $(function() {                       //run when the DOM is ready
-  $(".video-overlay").click(function() {  //use a class, since your ID gets mangled
-    $(this).addClass("hide");      //add the class to the clicked element
-    $(".video-embed").removeClass("hide");
+  $(".play-video").click(function() {  //use a class, since your ID gets mangled
+    $(".video-player-overlay").removeClass("hide");      //add the class to the clicked element
   });
 });
 </script>
 
-<!--This amends the video url and autoplays after clicking the thumbnail-->
-<script type="text/javascript">
-$(document).ready(function() {
-  $('.play-video').on('click', function(ev) {
-
-    $("#video-embed")[0].src += "?rel=0&autoplay=1&?modestbranding=1&showinfo=0&autohide=1&controls=0";
-    ev.preventDefault();
-
-  });
-});
-</script>

@@ -11,13 +11,13 @@ $border-radius: 0 !default;
 // Theme
 $light-gray: #f0f0f0 !default;
 $mid-gray: #e2e2e2 !default;
-$gray: #c7c7c7 !default;
+$gray: #7C7070 !default;
 $dark-gray: #111111 !default;
 $off-black: #111111 !default;
 $black: #000000 !default;
 $off-white: #f7f7f7 !default;
 $white: #ffffff !default;
-$blue: #3b00cc !default;
+$blue: #0000ff !default;
 $red: #ff0022 !default;
 $yellow: #F9B432 !default;
 $green: #3DF0A7 !default;
@@ -41,6 +41,7 @@ $form-field-padding-x: .5rem !default;
 
 $font-family: 'Karla', sans-serif;
 $line-height: 1.5 !default;
+$font-weight: 400 !default;
 $heading-font-family: $font-family !default;
 $heading-font-weight: 100 !default;
 $heading-line-height: 1.25 !default;
