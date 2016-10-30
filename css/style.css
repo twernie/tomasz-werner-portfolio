@@ -777,7 +777,8 @@ a {
   text-align: center; }
   .category h1 {
     letter-spacing: 1em;
-    color: #7C7070; }
+    color: #7C7070;
+    text-transform: uppercase; }
 
 a:hover {
   border-bottom: 1px solid #7C7070; }
