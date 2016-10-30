@@ -18,6 +18,7 @@ defaults:
     scope:
       path: ""
       type: "posts"
+    values:
     roles:
     credits:
     video-source:
