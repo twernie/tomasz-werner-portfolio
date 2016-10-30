@@ -14,6 +14,7 @@ email: your-email@domain.com
 description: 'Write an awesome description for your new site here.'
 markdown: kramdown
 theme: minima
+
 defaults:
     scope:
       path: ""
@@ -23,3 +24,5 @@ defaults:
       credits: "credits"
       video-source: "http"
       thumbnail-source: "http"
+
+---
