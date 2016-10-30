@@ -17,8 +17,8 @@ theme: minima
 defaults:
     scope:
       path: ""
-      type: "post"
-    roles: ""
-    credits: ""
-    video-source: ""
-    thumbnail-source: ""
+      type: "posts"
+    roles:
+    credits:
+    video-source:
+    thumbnail-source:
