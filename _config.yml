@@ -11,9 +11,7 @@ collections:
 keywords: test, test, testing
 author: Tomasz Werner
 email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: 'Write an awesome description for your new site here.'
 markdown: kramdown
 theme: minima
 defaults:
@@ -21,7 +19,8 @@ defaults:
     scope:
       path: ""
       type: "posts"
-    roles: ""
-    credits: ""
-    video-source: ""
-    thumbnail-source: ""
+    roles:
+    credits:
+    video-source:
+    thumbnail-source:
+---
