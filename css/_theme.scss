@@ -39,29 +39,22 @@ video {
   }
 }
 
-
-.footer-nav {
-  text-align: center;
-  text-transform: uppercase;
-  padding-top: 4em;
-  padding-bottom: 4em;
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  li {
-    display: inline-block;
-    margin-right: 10px;
-  }
-  a {
-    text-decoration: none;
-  }
-}
-
 a {
   text-decoration: none;
   color: inherit;
+}
+
+.category {
+  z-index: 1000;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  text-align: center;
+  h1 {
+    letter-spacing: 1em;
+    color: $gray;
+  }
 }
 
 a:hover {
@@ -136,6 +129,21 @@ a:hover {
   font-weight: 700;
 }
 
+@media screen and (max-width: $breakpoint-lg) {
+  .about-section {
+    padding-bottom: 2em;
+    padding-right: 1em;
+  }
+}
+
+@media screen and (max-width: $breakpoint-sm) {
+  .video-index {
+    li {
+      padding-bottom: 50px;
+    }
+  }
+}
+
 .roles {
   padding-top: 1.2em;
   text-transform: uppercase;
@@ -170,18 +178,46 @@ a:hover {
 
 .top-nav {
   width: 50%;
+  z-index: 1001;
   text-align: right;
   text-transform: uppercase;
-  a:hover {
-    border-bottom: 2px solid $blue;
-    color: $blue;
-    fill: $blue;
-  }
   li {
     margin-bottom: .45em;
     h4 {
       letter-spacing: .1em;
       font-weight: 700;
     }
+  }
+}
+
+
+.footer-nav {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  h3 {
+    font-weight: 700;
+    letter-spacing: .2em;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin-right: 15px;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
+.footer-nav, .top-nav {
+    a:hover {
+    border-bottom: 2px solid $blue;
+    color: $blue;
+    fill: $blue;
   }
 }

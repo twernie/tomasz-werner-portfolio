@@ -1,0 +1,26 @@
+<div class="site-header fade-in">
+  <div class="site-title">
+    <h3>Tomasz Werner</h3>
+    <h5>Director & DP</h5>
+  </div>
+  <div class="top-nav">
+    <ul>
+      {% for p in site.pages %}
+        <li>
+          <h4><a href="{{ p.url }}">{{ p.title }}</a></h4>
+        </li>
+      {% endfor %}
+      <li>
+        <a href="#about" class="no-hover">
+          <svg width="24px" height="24px" viewBox="1355 229 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <defs></defs>
+          <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1356.000000, 230.000000)">
+          <path d="M10.2153334,7.712 C10.6493334,8.146 11.3773334,8.146 11.8113334,7.712 C12.2453334,7.278 12.2453334,6.55 11.8113334,6.116 C11.3773334,5.682 10.6493334,5.682 10.2153334,6.116 C9.78133337,6.55 9.78133337,7.278 10.2153334,7.712 L10.2153334,7.712 Z M10.1453334,16 L11.8813334,16 L11.8813334,8.944 L10.1453334,8.944 L10.1453334,16 Z" id="i" fill="#302833"></path>
+          <circle id="Oval" stroke="#000000" stroke-width="1.5" cx="11" cy="11" r="11"></circle>
+          </g>
+          </svg>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>

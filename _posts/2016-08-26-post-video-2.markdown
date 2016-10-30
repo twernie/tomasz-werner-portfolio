@@ -4,6 +4,7 @@ date: 2016-08-26 19:54:39 Z
 categories:
 - video
 layout: post
+tags: "video"
 roles: Director of Photography
 credits:
 video-source: https://www.youtube.com/embed/FU3UYJD69Pk

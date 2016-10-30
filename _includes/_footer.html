@@ -32,9 +32,8 @@
 </script>
 <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
     <script src="/js/jquery.fitvids.js"></script>
-    <script src="/js/lazysizes.min.js"></script>
     <script src="/js/lity.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="http://d2v52k3cl9vedd.cloudfront.net/vhs/0.1.0/vhs.min.css">
     <link href="/vendor/lity.css" rel="stylesheet">
     <script>
   $(document).ready(function(){
@@ -51,3 +50,19 @@ $(function() {                       //run when the DOM is ready
 });
 </script>
 
+<script type="text/javascript">
+  $(function() {
+    $('a[href*="#"]:not([href="#"])').click(function() {
+      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+        if (target.length) {
+          $('html, body').animate({
+            scrollTop: target.offset().top
+          }, 1000);
+          return false;
+        }
+      }
+    });
+  });
+</script>

@@ -1,5 +1,7 @@
 ---
 title: Chris Muccioli
+keywords: "test, test, testing"
+author: 'Tomasz Werner'
 timezone: UTC
 collections:
   posts:
@@ -14,10 +16,5 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: "/chris-muccioli"
-url: http://www.chrismuccioli.com
-twitter_username: chrismuccioli
-github_username: chris-muccioli
-github.url: https://chrismuccioli.github.io/chris-muccioli/
 markdown: kramdown
 theme: minima
