@@ -19,8 +19,7 @@ defaults:
     scope:
       path: ""
       type: "posts"
-    roles:
-    credits:
-    video-source:
-    thumbnail-source:
----
+    roles: ""
+    credits: ""
+    video-source: ""
+    thumbnail-source: ""
