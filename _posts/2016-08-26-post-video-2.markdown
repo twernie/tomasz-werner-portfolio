@@ -6,7 +6,7 @@ categories:
 layout: post
 tags: "video"
 roles: Director of Photography
-credits:
+credits: 
 video-source: https://www.youtube.com/embed/FU3UYJD69Pk
 thumbnail-source: "/images/twins-days.jpg"
 ---
