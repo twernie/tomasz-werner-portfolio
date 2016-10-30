@@ -15,7 +15,6 @@ description: 'Write an awesome description for your new site here.'
 markdown: kramdown
 theme: minima
 defaults:
-  -
     scope:
       path: ""
       type: "posts"
