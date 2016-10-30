@@ -15,14 +15,3 @@ description: 'Write an awesome description for your new site here.'
 markdown: kramdown
 theme: minima
 
-defaults:
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      roles: "roles"
-      credits: "credits"
-      video-source: "http"
-      thumbnail-source: "http"
-
----
