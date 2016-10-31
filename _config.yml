@@ -8,18 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: posts
+    credits:
 keywords: test, test, testing
 author: Tomasz Werner
 email: your-email@domain.com
 description: Write an awesome description for your new site here.
 markdown: kramdown
 theme: minima
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "posts"
-      credits:
