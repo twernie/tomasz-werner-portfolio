@@ -14,17 +14,17 @@ defaults:
     type: posts
   values:
     layout: posts
-    credits: 
-    roles: 
-    video-source: 
-    thumbnail-source: 
+    credits:
+    roles:
+    video-source:
+    thumbnail-source:
 - scope:
     path: ''
     type: pages
   values:
     layout: category
-    categories: 
-    permalink: pretty
+    categories:
+
 keywords: test, test, testing
 author: Tomasz Werner
 email: your-email@domain.com
