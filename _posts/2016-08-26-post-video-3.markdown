@@ -1,13 +1,14 @@
 ---
 title: Weaving the Courtyard
-date: 2016-08-26 19:54:39 Z
+date: 2016-08-26 19:54:00 Z
 categories:
 - video
-layout: post
-roles: Director / DP / Editor
+- documentary
 credits: Escobedo Soliz - MoMA
+roles: Director / DP / Editor
 video-source: https://www.youtube.com/embed/w1Uz2qTzeeg
 thumbnail-source: "/images/yap.jpg"
+layout: post
 ---
 
 {% include _video-post.html %}
