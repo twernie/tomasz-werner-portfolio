@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     layout: posts
-    credits:
+    credits: 
 keywords: test, test, testing
 author: Tomasz Werner
 email: your-email@domain.com
