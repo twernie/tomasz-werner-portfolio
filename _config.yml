@@ -16,6 +16,10 @@ markdown: kramdown
 theme: minima
 
 defaults:
+  -
     scope:
       path: ""
       type: "posts"
+    values:
+      layout: "default"
+      author: "Ethan"
