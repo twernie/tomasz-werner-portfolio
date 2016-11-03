@@ -7,8 +7,8 @@ categories:
 - commercial
 credits: Escobedo Soliz - MoMA
 roles: Director / DP / Editor
-video-source: https://www.youtube.com/embed/w1Uz2qTzeeg
-thumbnail-source: "/images/yap.jpg"
+video-url: https://www.youtube.com/embed/w1Uz2qTzeeg
+thumbnail-image: "/images/yap.jpg"
 layout: post
 ---
 

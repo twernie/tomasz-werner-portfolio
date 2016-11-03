@@ -229,7 +229,7 @@ ol,
 ul {
   font-size: 14px;
   margin-top: 0;
-  letter-spacing: 0em;
+  letter-spacing: .02em;
   margin-bottom: 1rem;
   font-weight: 100; }
 
@@ -285,7 +285,7 @@ h3,
 h4,
 .h4 {
   font-size: 14px;
-  letter-spacing: 0em;
+  letter-spacing: 0.08em;
   line-height: 1.2em; }
 
 h5,
@@ -755,6 +755,9 @@ ul {
   padding: 0;
   margin: 0; }
 
+li {
+  padding-bottom: .2em; }
+
 video {
   width: 100%    !important;
   height: auto   !important; }
@@ -777,8 +780,10 @@ a {
   text-align: center; }
   .category h1 {
     letter-spacing: 1em;
-    color: #7C7070;
-    text-transform: uppercase; }
+    color: #e3e3e3;
+    text-transform: uppercase;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 300; }
 
 a:hover {
   border-bottom: 1px solid #7C7070; }
@@ -844,10 +849,22 @@ a:hover {
 @media screen and (max-width: 64em) {
   .about-section {
     padding-bottom: 2em;
-    padding-right: 1em; } }
+    padding-right: 0em !important; } }
+.lity-close {
+  display: none; }
+
 @media screen and (max-width: 40em) {
   .video-index li {
-    padding-bottom: 50px; } }
+    padding-bottom: 50px; }
+
+  .about-section {
+    text-align: left !important; } }
+@media screen and (min-width: 40em) and (max-width: 64em) {
+  .about-section-right {
+    text-align: right; } }
+.about-section {
+  padding-right: 2em; }
+
 .roles {
   padding-top: 1.2em;
   text-transform: uppercase; }
@@ -855,10 +872,10 @@ a:hover {
     letter-spacing: .1em; }
 
 .site-header {
+  padding-top: 5%;
+  padding-bottom: 2%;
   width: 100%;
-  height: 25vh;
-  display: flex;
-  align-items: center; }
+  display: flex; }
 
 .site-title {
   width: 50%;
@@ -885,6 +902,9 @@ a:hover {
       letter-spacing: .1em;
       font-weight: 700; }
 
+@media screen and (max-width: 64em) {
+  .category {
+    display: none !important; } }
 .footer-nav {
   text-align: center;
   text-transform: uppercase;

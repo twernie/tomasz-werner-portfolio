@@ -8,9 +8,9 @@ tags:
 - video
 layout: post
 roles: Director of Photography
-credits: 
-video-source: https://www.youtube.com/embed/FU3UYJD69Pk
-thumbnail-source: "/images/twins-days.jpg"
+credits:
+video-url: https://www.youtube.com/embed/FU3UYJD69Pk
+thumbnail-image: "/images/twins-days.jpg"
 ---
 
 {% include _video-post.html %}
