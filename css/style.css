@@ -737,15 +737,6 @@ textarea {
   /* Should be unset in IE9+ I think. */
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); }
 
-/* fade image in after load */
-.lazyload {
-  opacity: 0; }
-
-.lazyloading {
-  opacity: 1;
-  transition: opacity 300ms;
-  background: #000000 url(/../images/loader.gif) no-repeat center; }
-
 .content {
   padding-left: 5%;
   padding-right: 5%; }
