@@ -879,7 +879,8 @@ a:hover {
 
 .site-title {
   width: 50%;
-  float: left; }
+  float: left;
+  z-index: 1001; }
   .site-title h3 {
     font-weight: 700;
     text-transform: uppercase;

@@ -24,6 +24,7 @@ defaults:
   values:
     layout: category
     categories:
+    social-image:
 keywords: test, test, testing
 author: Tomasz Werner
 email: your-email@domain.com
