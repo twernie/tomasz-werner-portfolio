@@ -5,7 +5,7 @@ categories:
 - video
 layout: post
 roles: Director/DP/Editor
-credits:
+credits: 
 video-url: https://vimeo.com/176509978
 thumbnail-image: "/images/person-pics.jpg"
 ---
