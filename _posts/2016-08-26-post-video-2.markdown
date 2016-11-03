@@ -2,8 +2,11 @@
 title: Twins Days
 date: 2016-08-26 19:54:00 Z
 categories:
-- music video
 - featured
+- music-video
+- commercial
+- cinematography
+- documentary
 roles: Director of Photography
 video-url: https://www.youtube.com/embed/FU3UYJD69Pk
 thumbnail-image: "/images/twins-days.jpg"
