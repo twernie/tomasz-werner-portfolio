@@ -1,16 +1,13 @@
 ---
 title: Twins Days
-date: 2016-08-26 19:54:39 Z
+date: 2016-08-26 19:54:00 Z
 categories:
-- video
 - music video
-tags:
-- video
-layout: post
+- featured
 roles: Director of Photography
-credits:
 video-url: https://www.youtube.com/embed/FU3UYJD69Pk
 thumbnail-image: "/images/twins-days.jpg"
+layout: post
 ---
 
 {% include _video-post.html %}
