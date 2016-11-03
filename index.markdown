@@ -4,7 +4,7 @@ permalink: "/"
 layout: default
 description: Multi-disciplinary designer & art director based in Brooklyn, NY.
 social-image: images/jukely-app-home-2-chrismuccioli.jpg
-categories: home, featured
+categories: featured
 page: false
 ---
 
