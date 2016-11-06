@@ -1,0 +1,15 @@
+{% include head.html %}
+  <body>
+    <div class="category fade-in-slow">
+      <h1>{{ page.categories }}</H1>
+    </div>
+    <div class="clearfix content">
+      {% include _base.html %}
+      {% include _site-header.html %}
+      {% include _post-index.html %}
+      {{ content }}
+      {% include _about-footer.html %}
+      {% include _footer.html %}
+    </div>
+  </body>
+</html>

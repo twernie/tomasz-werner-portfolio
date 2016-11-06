@@ -1,0 +1,20 @@
+  <div class="video-index">
+  <ul>
+    {% for post in site.categories.[page.categories] %}
+      {% if post.url %}
+          <li>
+              {{ post.excerpt }}
+          <div class="title">
+          <h3 class="caps">{{ post.title }}</h3>
+          <div class="credits gray">
+            <h4>{{ post.credits }}</h4>
+          </div>
+          </div>
+          <div class="roles gray">
+            <h5>{{ post.roles }}</h5>
+          </div>
+          </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  </div>

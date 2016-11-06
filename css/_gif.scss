@@ -1,0 +1,40 @@
+// Gif Animation
+
+.gif {
+  display: block;
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  li {
+    position: absolute;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  li:nth-child(2) {
+    animation: gif 1s 0s infinite;
+  }
+  li:nth-child(1) {
+    animation: gif 1s .5s infinite;
+  }
+}
+
+@keyframes gif{
+  0% {
+    opacity:1;
+  }
+  50% {
+    opacity: 1;
+  }
+  51% {
+    opacity:0;
+  }
+  100% {
+    opacity:0;
+  }
+}

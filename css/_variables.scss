@@ -1,0 +1,88 @@
+// // Variables
+
+// Default whitespace unit
+$space: 1rem !default;
+
+// Borders
+$border-color: #ccc !default;
+$border-width: 1px !default;
+$border-radius: 0 !default;
+
+// Theme
+$light-gray: #f0f0f0 !default;
+$mid-gray: #e2e2e2 !default;
+$gray: #7C7070 !default;
+$dark-gray: #111111 !default;
+$off-black: #111111 !default;
+$black: #000000 !default;
+$off-white: #f7f7f7 !default;
+$white: #ffffff !default;
+$blue: #0000ff !default;
+$red: #ff0022 !default;
+$yellow: #F9B432 !default;
+$green: #3DF0A7 !default;
+$orange: #ff3000 !default;
+$purple: #863EF3 !default;
+$peach: #FF9A85 !default;
+$cream: #EBCEB7 !default;
+
+$gray-1: #E8E8E8 !default;
+$gray-2: #3E3432 !default;
+$gray-3: #261F1E !default;
+
+
+// Forms
+$form-field-font-size: 1rem !default;
+$form-field-height: 2.25rem !default;
+$form-field-padding-y: .5rem !default;
+$form-field-padding-x: .5rem !default;
+
+// Typography
+
+$font-family: 'Karla', sans-serif;
+$line-height: 1.5 !default;
+$font-weight: 400 !default;
+$heading-font-family: $font-family !default;
+$heading-font-weight: 100 !default;
+$heading-line-height: 1.25 !default;
+$monospace-font-family: 'Roboto Mono', monospace !default;
+$monospace-letter-spacing: .15em !default;
+$h1: 32px !default;
+$h2: 24px !default;
+$h3: 18px !default;
+$h4: 14px !default;
+$h5: 11px !default;
+$h6: 8px !default;
+$bold-font-weight: bold !default;
+$space-1: .5rem !default;
+$space-2: 1rem !default;
+$space-3: 2rem !default;
+$space-4: 4rem !default;
+$h1-ls: 0em !default;
+$h2-ls: 0em !default;
+$h3-ls: 0px !default;
+$h4-ls: 0.08em !default;
+$h5-ls: 0px !default;
+$h6-ls: 0em !default;
+$h1-lh: 1.45em !default;
+$h2-lh: 1.55em !default;
+$h3-lh: 1.25em !default;
+$h4-lh: 1.2em !default;
+$h5-lh: 1.2em !default;
+$h6-lh: 1.2em !default;
+
+
+// Grid System
+
+$container-width: 64em !default;
+
+$breakpoint-sm: 40em;
+$breakpoint-md: 40.1em;
+$breakpoint-lg: 64em;
+
+// Buttons
+$button-font-size: inherit !default;
+$button-font-weight: $bold-font-weight /* Fallback value:  bold */ !default;
+$button-line-height: 1.125rem !default;
+$button-padding-y: .5rem !default;
+$button-padding-x: 1rem !default;

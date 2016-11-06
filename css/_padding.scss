@@ -1,0 +1,59 @@
+// Padding
+
+.p1  { padding: .5*$space; }
+.px1 { padding-right: .5*$space; padding-left: .5*$space; }
+.py1 { padding-top: .5*$space; padding-bottom: .5*$space; }
+
+.p2  { padding: $space; }
+.px2 { padding-right: $space; padding-left: $space; }
+.py2 { padding-top: $space; padding-bottom: $space; }
+.pr2 { padding-right: $space;}
+
+.p3  { padding: 2*$space; }
+.px3 { padding-right: 2*$space; padding-left: 2*$space; }
+.py3 { padding-top: 2*$space; padding-bottom: 2*$space; }
+
+.p4  { padding: 4*$space; }
+.px4 { padding-right: 4*$space; padding-left: 4*$space; }
+.py4 { padding-top: 4*$space; padding-bottom: 4*$space; }
+
+.p5  { padding: 5*$space; }
+.px5 { padding-right: 5*$space; padding-left: 5*$space; }
+.py5 { padding-top: 5*$space; padding-bottom: 5*$space; }
+
+.p6  { padding: 6*$space; }
+.px6 { padding-right: 6*$space; padding-left: 6*$space; }
+.py6 { padding-top: 6*$space; padding-bottom: 6*$space; }
+
+.pt1  { padding-top: .5*$space; }
+.pt2  { padding-top: $space; }
+.pt3  { padding-top: 2*$space; }
+.pt4  { padding-top: 4*$space; }
+.pt5  { padding-top: 6*$space; }
+.pt6  { padding-top: 8*$space; }
+.pt7  { padding-top: 10*$space; }
+
+.pb1  { padding-bottom: .5*$space; }
+.pb2  { padding-bottom: $space; }
+.pb3  { padding-bottom: 2*$space; }
+.pb4  { padding-bottom: 4*$space; }
+.pb5  { padding-bottom: 6*$space; }
+.pb6  { padding-bottom: 8*$space; }
+
+.pl1  { padding-left: .5*$space; }
+.pl2  { padding-left: $space; }
+.pl3  { padding-left: 2*$space; }
+
+.image-set { padding-top: 2*$space; padding-bottom: 2*$space; }
+
+
+// @media screen and (max-width: $breakpoint-sm) {
+//   .clear-padding {
+//     padding-left: 0 !important;
+//     padding-right: 0 !important;
+//   }
+//   .clear-padding-top {
+//     padding-top: 0 !important;
+//   }
+//   .m-px2 { padding-right: $space; padding-left: $space; }
+// }

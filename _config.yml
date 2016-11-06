@@ -1,0 +1,34 @@
+---
+title: Chris Muccioli
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: posts
+    credits: 
+    roles: 
+    video-url: 
+    thumbnail-image: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: category
+    categories: 
+    social-image: 
+    title: 
+keywords: test, test, testing
+author: Tomasz Werner
+email: your-email@domain.com
+description: Write an awesome description for your new site here.
+markdown: kramdown
+theme: minima

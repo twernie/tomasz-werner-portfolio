@@ -1,0 +1,59 @@
+/**
+ * Flag object.
+ *
+ * Very similar to the media object, only the flag object allows for vertical alignment.
+ * stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
+ http://jsfiddle.net/csswizardry/herrh/
+ */
+.flag {
+    display: table;
+    width: 100%;
+    }
+
+.flag-button {
+    display: table;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    .flag-image,
+    .flag-body {
+        display: table-cell;
+        vertical-align: middle;
+
+        .flag-top & {
+            vertical-align: top;
+        }
+
+        .flag-bottom & {
+            vertical-align: bottom;
+        }
+
+        .flag-button-text & {
+            text-align: right;
+        }
+        .flag-button-icon & {
+            max-width: 100% !important;
+        }
+
+    }
+
+    .flag-image {
+        padding-right: 10px;
+
+        > img {
+            display: block;
+            max-width: none;
+        }
+
+        .flag-rev & {
+            padding-right: 0;
+            padding-left: 10px;
+        }
+
+    }
+
+    .flag-body {
+        width: 100%;
+    }
