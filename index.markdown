@@ -1,11 +1,11 @@
 ---
 title: Tomasz Werner
 permalink: "/"
-layout: default
-description: Multi-disciplinary designer & art director based in Brooklyn, NY.
-social-image: images/jukely-app-home-2-chrismuccioli.jpg
 categories: home
+social-image: "/uploads/twins-days.jpg"
+description: Tomasz Werner is a director
 page: false
+layout: default
 ---
 
 {% include _site-header.html %}
