@@ -26,9 +26,9 @@ defaults:
     categories: 
     social-image: 
     title: 
-keywords: test, test, testing
+keywords: Video, Editor
 author: Tomasz Werner
-email: your-email@domain.com
-description: Write an awesome description for your new site here.
+email: tomaszpwerner@gmail.com
+description: Tomasz Werner
 markdown: kramdown
 theme: minima
