@@ -4,6 +4,7 @@ date: 2016-08-26 19:54:00 Z
 categories:
 - documentary
 - commercial
+- home
 credits: Escobedo Soliz - MoMA
 roles: Director / DP / Editor
 video-url: https://www.youtube.com/embed/w1Uz2qTzeeg
