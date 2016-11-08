@@ -7,7 +7,7 @@ categories:
 - home
 roles: Director / DP
 video-url: https://www.youtube.com/embed/0wg5Var0L-4
-thumbnail-image: "/uploads/wake-the-dead_poster3.png"
+thumbnail-image: "/uploads/wake-the-dead_alt2"
 ---
 
 {% include _video-post.html %}
