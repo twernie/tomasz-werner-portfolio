@@ -5,7 +5,7 @@ categories:
 - music video
 roles: Director/DP/Editor
 video-url: https://vimeo.com/176509978
-thumbnail-image: "/images/person-pics.jpg"
+thumbnail-image: "/uploads/person-pictures_TW-still1.png"
 layout: post
 ---
 
