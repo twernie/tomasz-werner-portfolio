@@ -8,7 +8,7 @@ categories:
 credits: MoMA
 roles: Director of Photography
 video-url: https://www.youtube.com/embed/YdR0GOLF918
-thumbnail-image: "/uploads/HWT-temp.jpeg"
+thumbnail-image: "/uploads/hwt-thumb1.jpg"
 ---
 
 {% include _video-post.html %}
