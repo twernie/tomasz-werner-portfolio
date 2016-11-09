@@ -7,6 +7,7 @@ categories:
 - cinematography
 - documentary
 - home
+credits: as featured on The New Yorker
 roles: Director of Photography
 video-url: https://www.youtube.com/embed/FU3UYJD69Pk
 thumbnail-image: "/images/twins-days.jpg"
