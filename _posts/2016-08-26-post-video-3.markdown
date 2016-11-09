@@ -8,7 +8,7 @@ categories:
 credits: Escobedo Soliz - MoMA
 roles: Director / DP / Editor
 video-url: https://www.youtube.com/embed/w1Uz2qTzeeg
-thumbnail-image: "/uploads/hassabi-still-final.png"
+thumbnail-image: "/uploads/yap-thumb-2.png"
 layout: post
 ---
 
