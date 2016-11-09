@@ -8,7 +8,7 @@ categories:
 credits: Escobedo Soliz - MoMA
 roles: Director / DP / Editor
 video-url: https://www.youtube.com/embed/w1Uz2qTzeeg
-thumbnail-image: "/uploads/yap-thumb-3-c15900.png"
+thumbnail-image: "/uploads/yap-thumb-4.png"
 layout: post
 ---
 
