@@ -7,7 +7,7 @@ categories:
 credits: MoMA
 roles: Director of Photography
 video-url: https://www.youtube.com/embed/1bKuXZ0iYVs
-thumbnail-image: "/uploads/hassabi-still-final-2.png"
+thumbnail-image: "/uploads/hassabi-still-final-2.jpg"
 ---
 
 {% include _video-post.html %}
