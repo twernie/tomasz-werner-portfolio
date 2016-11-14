@@ -5,8 +5,7 @@ categories:
 - cinematography
 credits: TIME
 roles: Director of Photography
-video-url: "//players.brightcove.net/293884104/SJa0Thl7_default/index.html?videoId=5186153546001
-  allowfullscreen frameborder=0"
+video-url: http://players.brightcove.net/293884104/SJa0Thl7_default/index.html?videoId=5186153546001?autoplay=1
 thumbnail-image: "/uploads/voices.jpg"
 ---
 
