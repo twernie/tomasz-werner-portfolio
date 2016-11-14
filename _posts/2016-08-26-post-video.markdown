@@ -2,7 +2,7 @@
 title: Person Pictures
 date: 2016-08-26 19:54:00 Z
 categories:
-- music video
+- cinematography
 roles: Director/DP/Editor
 video-url: https://vimeo.com/176509978
 thumbnail-image: "/uploads/person-pictures_TW-still1.jpg"
