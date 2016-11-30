@@ -2,7 +2,6 @@
 title: Prabal Gurung | American Voices
 date: 2016-11-14 21:49:00 Z
 categories:
-- cinematography
 - commercial
 credits: TIME
 roles: Director of Photography
