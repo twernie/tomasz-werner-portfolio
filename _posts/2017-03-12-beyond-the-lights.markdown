@@ -6,6 +6,7 @@ categories:
 credits: The Guardian US
 roles: Director of Photography
 video-url: https://embed.theguardian.com/embed/video/beyond-the-lights/video/2017/feb/28/las-vegas-nature-parks-trails-desert-canyon
+thumbnail-image: "/uploads/glabs1.jpg"
 ---
 
 {% include _video-post.html %}
