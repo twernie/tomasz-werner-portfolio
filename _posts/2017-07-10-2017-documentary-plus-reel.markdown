@@ -1,5 +1,5 @@
 ---
-title: 2017 Documentary+ Reel
+title: 2017 Documentary Reel
 date: 2017-07-10 02:26:00 Z
 categories:
 - cinematography
