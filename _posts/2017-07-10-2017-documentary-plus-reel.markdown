@@ -7,3 +7,4 @@ video-url: https://vimeo.com/224882408
 thumbnail-image: "/uploads/cover1.jpg"
 ---
 
+{% include _video-post.html %}
