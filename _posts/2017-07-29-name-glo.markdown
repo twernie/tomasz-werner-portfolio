@@ -3,7 +3,8 @@ title: Name Glo
 date: 2017-07-29 19:49:00 Z
 categories:
 - cinematography
-roles: Director of Photography
+- commercial
+roles: Director, DP
 video-url: https://vimeo.com/219810064
 thumbnail-image: "/uploads/name-glo-thumb.jpg"
 ---
