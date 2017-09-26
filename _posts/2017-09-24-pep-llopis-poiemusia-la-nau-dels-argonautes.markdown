@@ -5,7 +5,7 @@ categories:
 - music video
 credits: Freedom To Spend
 roles: Director / DP
-video-url: https://www.youtube.com/embed/bh06byTJEu4
+video-url: https://player.vimeo.com/video/224147343
 thumbnail-image: "/uploads/pep_thumbnail2.jpg"
 ---
 
