@@ -6,7 +6,7 @@ categories:
 credits: MoMA
 roles: Editor
 video-url: https://www.youtube.com/embed/D-Ghh-_CJEo
-thumbnail-image: "/uploads/savile-row.jpg"
+thumbnail-image: "/uploads/savile-row2.jpg"
 ---
 
 {% include _video-post.html %}
