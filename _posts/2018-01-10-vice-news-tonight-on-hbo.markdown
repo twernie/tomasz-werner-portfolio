@@ -1,6 +1,8 @@
 ---
 title: Vice News Tonight on HBO
 date: 2018-01-10 17:33:00 Z
+categories:
+- cinematography
 credits: VICE
 roles: Freelance DP
 video-url: https://www.youtube.com/embed/BS4nEYhKwvw
