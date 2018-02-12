@@ -1,6 +1,6 @@
 ---
 title: Vice News
-date: 2018-01-10 17:33:00 Z
+date: 2018-02-12 17:33:00 Z
 categories:
 - cinematography
 credits: VICE News Tonight on HBO
