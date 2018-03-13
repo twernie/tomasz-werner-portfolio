@@ -7,7 +7,7 @@ categories:
 - documentary
 - home
 credits: as featured on The New Yorker
-roles: Producer, Director of Photography
+roles: Producer, DP
 video-url: https://www.youtube.com/embed/FU3UYJD69Pk
 thumbnail-image: "/images/twins-days.jpg"
 layout: post
