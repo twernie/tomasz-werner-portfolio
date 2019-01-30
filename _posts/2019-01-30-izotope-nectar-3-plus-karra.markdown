@@ -7,7 +7,7 @@ categories:
 credits: Splice
 roles: Producer
 video-url: https://www.youtube.com/embed/kj_OBQLmIzQ
-thumbnail-image: "/uploads/karra-thumb.jpg"
+thumbnail-image: "/uploads/karra-thumb2.jpg"
 ---
 
 {% include _video-post.html %}
