@@ -6,7 +6,7 @@ categories:
 credits: Splice
 roles: Producer
 video-url: https://player.vimeo.com/video/278965775
-thumbnail-image: "/uploads/hugo-thumb.jpg"
+thumbnail-image: "/uploads/hugo-thumb2jpg"
 ---
 
 {% include _video-post.html %}
