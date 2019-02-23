@@ -3,7 +3,7 @@ title: Tomasz Werner
 permalink: "/"
 categories: home
 social-image: "/uploads/twins-days.jpg"
-description: Tomasz Werner is a director
+description: Tomasz Werner is a producer
 page: false
 layout: default
 ---
