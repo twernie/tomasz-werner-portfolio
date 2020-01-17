@@ -6,7 +6,7 @@ categories:
 - home
 credits: Splice
 roles: Producer
-video-url: https://player.vimeo.com/video/352070407
+video-url: https://player.vimeo.com/video/352070934
 thumbnail-image: "/uploads/splice2daw-thumb5.jpg"
 ---
 
