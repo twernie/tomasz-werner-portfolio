@@ -1,6 +1,6 @@
 ---
 title: Artists Meet Machine Learning
-date: 2022-04-18 03:47:00 Z
+date: 2022-04-20 03:47:00 Z
 categories:
 - home
 - documentary
