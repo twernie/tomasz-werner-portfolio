@@ -5,7 +5,7 @@ categories:
 - home
 - commercial
 credits: Output Inc
-video-url: https://youtube.com/playlist?list=PL4RikWvGjABw5KXaf-B1lba3T7R0oOI43&si=Uzza3Oi_br0ADaCL
+video-url: https://www.youtube.com/watch?v=msVBGHMJpVw&list=PL4RikWvGjABw5KXaf-B1lba3T7R0oOI43
 thumbnail-image: "/uploads/Finding-Inspo.jpg"
 ---
 
